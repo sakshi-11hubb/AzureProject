@@ -1,0 +1,9 @@
+{
+	"name": "dfactoryAzureProject2026",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0115833d-cd3d-454f-8e6e-2bf771e30445",
+		"tenantId": "b16dc647-c32e-4c7c-90ed-e657f300d255"
+	}
+}
