@@ -347,6 +347,18 @@
 						"from_date": ""
 					}
 				]
+			},
+			"schema": {
+				"type": "string"
+			},
+			"table": {
+				"type": "string"
+			},
+			"cdc_col": {
+				"type": "string"
+			},
+			"from_date": {
+				"type": "string"
 			}
 		},
 		"variables": {
